@@ -36,7 +36,7 @@ The provided information pertains specifically to the difference between annual 
 
 Here is a summary of the key findings:
   
-  *Members prefer riding on weekdays, with the most frequent rides occurring from Tuesday to Thursday. In contrast, casual users prefer weekends, particularly Saturdays, suggesting different usage patterns for both groups.
+*Members prefer riding on weekdays, with the most frequent rides occurring from Tuesday to Thursday. In contrast, casual users prefer weekends, particularly Saturdays, suggesting different usage patterns for both groups.
 *Kingsbury and Kinzie St. are the top start and end stations for members, whereas Streeter Dr. and Grand Ave. are preferred by casual users. Station preferences may align with the locations of residential and commercial areas frequented by each group.
 *Classic bikes are the most preferred bike type among both members and casual users, indicating a preference for traditional biking options.
 *Both groups commonly ride between 3-6 p.m., likely corresponding to the late afternoon when many people use the service for various activities.
@@ -44,9 +44,6 @@ Here is a summary of the key findings:
 *July is the most popular month, likely due to summer weather and increased outdoor activities. December records the lowest ridership, possibly due to colder weather and holiday-related factors.
 *Saturday is the most popular day of the week across all users, and it is the only day when casual users slightly surpass members in usage, although the difference is marginal.
 *It is important to consider these findings when formulating strategies and making data-driven decisions to better serve both member and casual user segments effectively.
-
-
-## Data Wrangling Change Log
 
 The data has been made available by Motivate International Inc. under this [License](https://ride.divvybikes.com/data-license-agreement).
 
